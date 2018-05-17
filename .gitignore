@@ -1,0 +1,4 @@
+weights_SSD300.hdf5
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
